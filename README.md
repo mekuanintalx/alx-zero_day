@@ -1,2 +1,1 @@
-My 1st readme updated
-#mekuanint
+My first readme
